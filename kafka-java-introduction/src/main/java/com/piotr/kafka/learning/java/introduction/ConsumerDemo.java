@@ -1,4 +1,4 @@
-package com.piotr.kafka.learning.tutorial1;
+package com.piotr.kafka.learning.java.introduction;
 
 import java.time.Duration;
 import java.util.Arrays;

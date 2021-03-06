@@ -1,4 +1,4 @@
-package com.piotr.kafka.learning.tutorial1;
+package com.piotr.kafka.learning.java.introduction;
 
 import java.util.Properties;
 import org.apache.kafka.clients.producer.KafkaProducer;
