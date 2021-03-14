@@ -11,6 +11,7 @@
   <modules>
     <module>kafka-java-introduction</module>
     <module>kafka-twitter-project</module>
+    <module>kafka-consumer-elasticsearch</module>
   </modules>
 
   <properties>
