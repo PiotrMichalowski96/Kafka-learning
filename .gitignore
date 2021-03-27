@@ -1,3 +1,5 @@
 .idea
 /target
 kafka-learning.iml
+*/*.iml
+*/target

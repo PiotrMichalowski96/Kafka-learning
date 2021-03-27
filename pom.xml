@@ -14,6 +14,7 @@
     <module>kafka-consumer-elasticsearch</module>
     <module>kafka-streams-filter-tweets</module>
     <module>word-count</module>
+    <module>favourite-colour</module>
   </modules>
 
   <properties>
