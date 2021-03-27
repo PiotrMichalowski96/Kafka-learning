@@ -13,6 +13,7 @@
     <module>kafka-twitter-project</module>
     <module>kafka-consumer-elasticsearch</module>
     <module>kafka-streams-filter-tweets</module>
+    <module>word-count</module>
   </modules>
 
   <properties>
